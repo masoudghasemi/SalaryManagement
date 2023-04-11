@@ -1,0 +1,289 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\masoud\\source\\repos\\SalaryManagement\\OrderManagement.Core.AppService\\OrderManagement.Core.AppService.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\masoud\\source\\repos\\SalaryManagement\\Framework\\Framework.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\masoud\\source\\repos\\SalaryManagement\\Framework\\Framework.csproj",
+        "projectName": "Framework",
+        "projectPath": "C:\\Users\\masoud\\source\\repos\\SalaryManagement\\Framework\\Framework.csproj",
+        "packagesPath": "C:\\Users\\masoud\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\masoud\\source\\repos\\SalaryManagement\\Framework\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\masoud\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Projects\\Work_Projects\\Framework\\Framework\\bin\\Release\\net5.0\\publish": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\masoud\\source\\repos\\SalaryManagement\\OrderManagement.Core.AppService\\OrderManagement.Core.AppService.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\masoud\\source\\repos\\SalaryManagement\\OrderManagement.Core.AppService\\OrderManagement.Core.AppService.csproj",
+        "projectName": "OrderManagement.Core.AppService",
+        "projectPath": "C:\\Users\\masoud\\source\\repos\\SalaryManagement\\OrderManagement.Core.AppService\\OrderManagement.Core.AppService.csproj",
+        "packagesPath": "C:\\Users\\masoud\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\masoud\\source\\repos\\SalaryManagement\\OrderManagement.Core.AppService\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\masoud\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Projects\\Work_Projects\\Framework\\Framework\\bin\\Release\\net5.0\\publish": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\masoud\\source\\repos\\SalaryManagement\\Framework\\Framework.csproj": {
+                "projectPath": "C:\\Users\\masoud\\source\\repos\\SalaryManagement\\Framework\\Framework.csproj"
+              },
+              "C:\\Users\\masoud\\source\\repos\\SalaryManagement\\OrderManagement.Core.Infrastructure\\OrderManagement.Core.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\masoud\\source\\repos\\SalaryManagement\\OrderManagement.Core.Infrastructure\\OrderManagement.Core.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[12.0.0, )"
+            },
+            "MediatR": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
+            "MediatR.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[11.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\masoud\\source\\repos\\SalaryManagement\\OrderManagement.Core.Domain\\OrderManagement.Core.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\masoud\\source\\repos\\SalaryManagement\\OrderManagement.Core.Domain\\OrderManagement.Core.Domain.csproj",
+        "projectName": "OrderManagement.Core.Domain",
+        "projectPath": "C:\\Users\\masoud\\source\\repos\\SalaryManagement\\OrderManagement.Core.Domain\\OrderManagement.Core.Domain.csproj",
+        "packagesPath": "C:\\Users\\masoud\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\masoud\\source\\repos\\SalaryManagement\\OrderManagement.Core.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\masoud\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Projects\\Work_Projects\\Framework\\Framework\\bin\\Release\\net5.0\\publish": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\masoud\\source\\repos\\SalaryManagement\\Framework\\Framework.csproj": {
+                "projectPath": "C:\\Users\\masoud\\source\\repos\\SalaryManagement\\Framework\\Framework.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\masoud\\source\\repos\\SalaryManagement\\OrderManagement.Core.Infrastructure\\OrderManagement.Core.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\masoud\\source\\repos\\SalaryManagement\\OrderManagement.Core.Infrastructure\\OrderManagement.Core.Infrastructure.csproj",
+        "projectName": "OrderManagement.Core.Infrastructure",
+        "projectPath": "C:\\Users\\masoud\\source\\repos\\SalaryManagement\\OrderManagement.Core.Infrastructure\\OrderManagement.Core.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\masoud\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\masoud\\source\\repos\\SalaryManagement\\OrderManagement.Core.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\masoud\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Projects\\Work_Projects\\Framework\\Framework\\bin\\Release\\net5.0\\publish": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\masoud\\source\\repos\\SalaryManagement\\OrderManagement.Core.Domain\\OrderManagement.Core.Domain.csproj": {
+                "projectPath": "C:\\Users\\masoud\\source\\repos\\SalaryManagement\\OrderManagement.Core.Domain\\OrderManagement.Core.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.3, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.3, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

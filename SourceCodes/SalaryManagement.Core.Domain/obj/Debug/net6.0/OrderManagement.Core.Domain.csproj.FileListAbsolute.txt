@@ -1,0 +1,15 @@
+C:\Users\masoud\source\repos\OrderManagement\OrderManagement.Core.Domain\bin\Debug\net6.0\OrderManagement.Core.Domain.deps.json
+C:\Users\masoud\source\repos\OrderManagement\OrderManagement.Core.Domain\bin\Debug\net6.0\OrderManagement.Core.Domain.dll
+C:\Users\masoud\source\repos\OrderManagement\OrderManagement.Core.Domain\bin\Debug\net6.0\ref\OrderManagement.Core.Domain.dll
+C:\Users\masoud\source\repos\OrderManagement\OrderManagement.Core.Domain\bin\Debug\net6.0\OrderManagement.Core.Domain.pdb
+C:\Users\masoud\source\repos\OrderManagement\OrderManagement.Core.Domain\obj\Debug\net6.0\OrderManagement.Core.Domain.csproj.AssemblyReference.cache
+C:\Users\masoud\source\repos\OrderManagement\OrderManagement.Core.Domain\obj\Debug\net6.0\OrderManagement.Core.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\masoud\source\repos\OrderManagement\OrderManagement.Core.Domain\obj\Debug\net6.0\OrderManagement.Core.Domain.AssemblyInfoInputs.cache
+C:\Users\masoud\source\repos\OrderManagement\OrderManagement.Core.Domain\obj\Debug\net6.0\OrderManagement.Core.Domain.AssemblyInfo.cs
+C:\Users\masoud\source\repos\OrderManagement\OrderManagement.Core.Domain\obj\Debug\net6.0\OrderManagement.Core.Domain.csproj.CoreCompileInputs.cache
+C:\Users\masoud\source\repos\OrderManagement\OrderManagement.Core.Domain\obj\Debug\net6.0\OrderManagement.Core.Domain.dll
+C:\Users\masoud\source\repos\OrderManagement\OrderManagement.Core.Domain\obj\Debug\net6.0\ref\OrderManagement.Core.Domain.dll
+C:\Users\masoud\source\repos\OrderManagement\OrderManagement.Core.Domain\obj\Debug\net6.0\OrderManagement.Core.Domain.pdb
+C:\Users\masoud\source\repos\OrderManagement\OrderManagement.Core.Domain\bin\Debug\net6.0\Framework.dll
+C:\Users\masoud\source\repos\OrderManagement\OrderManagement.Core.Domain\bin\Debug\net6.0\Framework.pdb
+C:\Users\masoud\source\repos\OrderManagement\OrderManagement.Core.Domain\obj\Debug\net6.0\OrderManagement.Core.Domain.csproj.CopyComplete

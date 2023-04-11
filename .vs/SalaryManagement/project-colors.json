@@ -1,0 +1,91 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "0cf0f0f7-c76b-4d69-baf9-de6123747687": {
+      "ProjectGuid": "0cf0f0f7-c76b-4d69-baf9-de6123747687",
+      "DisplayName": "OrderManagement.Web.Api",
+      "ColorIndex": 0
+    },
+    "57368367-bdc0-4082-9ec2-e6573fad0856": {
+      "ProjectGuid": "57368367-bdc0-4082-9ec2-e6573fad0856",
+      "DisplayName": "SalaryManagement.Core.Domain",
+      "ColorIndex": 1
+    },
+    "462eea33-4820-428d-b83f-37248fed2ff9": {
+      "ProjectGuid": "462eea33-4820-428d-b83f-37248fed2ff9",
+      "DisplayName": "SalaryManagement.Core.Infrastructure",
+      "ColorIndex": 2
+    },
+    "fa55a0e6-e853-4175-b21f-793ebdfbca22": {
+      "ProjectGuid": "fa55a0e6-e853-4175-b21f-793ebdfbca22",
+      "DisplayName": "SalaryManagement.Core.IOC",
+      "ColorIndex": 3
+    },
+    "55a33012-dd27-455a-b436-f60d37b64d47": {
+      "ProjectGuid": "55a33012-dd27-455a-b436-f60d37b64d47",
+      "DisplayName": "SalaryManagement.Core.AppService",
+      "ColorIndex": 4
+    },
+    "48f3a091-0a7f-474e-9d30-e010df4e86e5": {
+      "ProjectGuid": "48f3a091-0a7f-474e-9d30-e010df4e86e5",
+      "DisplayName": "SalaryManagement.Core.Common",
+      "ColorIndex": 5
+    },
+    "5226f54c-dca6-48ea-bd18-48706fea6b6b": {
+      "ProjectGuid": "5226f54c-dca6-48ea-bd18-48706fea6b6b",
+      "DisplayName": "SalaryManagement.Web.Api",
+      "ColorIndex": 6
+    },
+    "f2a6f6bb-ca96-4042-aa39-aca54b68ae16": {
+      "ProjectGuid": "f2a6f6bb-ca96-4042-aa39-aca54b68ae16",
+      "DisplayName": "Framework",
+      "ColorIndex": 7
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "53604c55-f44f-47b5-8294-c573791b8ded": {
+      "ProjectGuid": "53604c55-f44f-47b5-8294-c573791b8ded",
+      "DisplayName": "SalaryManagement.Web.Api",
+      "ColorIndex": 8
+    },
+    "b3d28649-885a-4809-9f94-87ea412b62d7": {
+      "ProjectGuid": "b3d28649-885a-4809-9f94-87ea412b62d7",
+      "DisplayName": "SalaryManagement.Core.Infrastructure",
+      "ColorIndex": 9
+    },
+    "028f6c14-2e4e-45a9-85c0-e43ccee06217": {
+      "ProjectGuid": "028f6c14-2e4e-45a9-85c0-e43ccee06217",
+      "DisplayName": "SalaryManagement.Core.Domain",
+      "ColorIndex": 10
+    },
+    "8f2793e9-9109-4d82-8b76-1c4d37600e57": {
+      "ProjectGuid": "8f2793e9-9109-4d82-8b76-1c4d37600e57",
+      "DisplayName": "SalaryManagement.Core.Common",
+      "ColorIndex": 11
+    },
+    "aab12a7a-67a5-41ba-ba12-b8c72d151278": {
+      "ProjectGuid": "aab12a7a-67a5-41ba-ba12-b8c72d151278",
+      "DisplayName": "SalaryManagement.Core.IOC",
+      "ColorIndex": 12
+    },
+    "2e8d2750-3df8-4118-88c2-e164466ccab5": {
+      "ProjectGuid": "2e8d2750-3df8-4118-88c2-e164466ccab5",
+      "DisplayName": "SalaryManagement.Core.AppService",
+      "ColorIndex": 13
+    },
+    "5b62c33c-0643-47de-8150-04d630eab190": {
+      "ProjectGuid": "5b62c33c-0643-47de-8150-04d630eab190",
+      "DisplayName": "SalaryManagement.BusinessLogic.OvertimePolicies",
+      "ColorIndex": 14
+    },
+    "b52f0876-e2fb-41f4-bd61-80c82ff8ceaf": {
+      "ProjectGuid": "b52f0876-e2fb-41f4-bd61-80c82ff8ceaf",
+      "DisplayName": "SalaryManagement.UnitTests",
+      "ColorIndex": 15
+    }
+  },
+  "NextColorIndex": 0
+}
